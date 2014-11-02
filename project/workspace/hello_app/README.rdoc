@@ -1,4 +1,6 @@
 == README
+This is a sample application for rendering "hello world"
+After deployment, run "https://localhost:3000"
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
